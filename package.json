@@ -1,0 +1,29 @@
+{
+  "name": "opencodemod",
+  "version": "0.0.1",
+  "description": "Short aliases for launching OpenCode. Keeps the interactive and default modes easy to start.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iop098321qwe/opencodemod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iop098321qwe/opencodemod/issues"
+  },
+  "homepage": "https://github.com/iop098321qwe/opencodemod#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "husky": "^9.1.7"
+  }
+}
